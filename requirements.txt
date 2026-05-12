@@ -11,4 +11,7 @@ beautifulsoup4
 sentence-transformers>=5.4.1,<6.0.0
 transformers>=4.57.6,<5.0.0
 typing-extensions>=4.15.0
-
+huggingface-hub
+chromadb
+langchain-chroma
+faiss-cpu
