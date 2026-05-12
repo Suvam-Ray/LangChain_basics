@@ -15,3 +15,4 @@ huggingface-hub
 chromadb
 langchain-chroma
 faiss-cpu
+wikipedia
