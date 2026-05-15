@@ -16,3 +16,4 @@ chromadb
 langchain-chroma
 faiss-cpu
 wikipedia
+streamlit
